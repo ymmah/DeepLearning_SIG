@@ -1,0 +1,11 @@
+
+https://github.com/HoverHell/RedditImageGrab
+
+python redditdl.py NatureIsFuckingLit ~/deep_learning_sig/Git/DeepLearning_SIG/ImageVectors/images/NatureIsFuckingLit --score 100 --num 45 --sfw
+
+aww
+oldschoolcool
+pics
+dankmemes
+astrophotography
+NatureIsFuckingLit
